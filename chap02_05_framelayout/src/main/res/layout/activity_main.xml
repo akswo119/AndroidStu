@@ -1,18 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.chap02_05_framelayout.MainActivity">
+    >
+    <FrameLayout
+        android:id="@+id/frameStart"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        <Button
+            android:id="@+id/btn1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="프레임 레이아웃"
+            android:onClick="onbtn1Clicked"
+            android:visibility="visible"/>
+        />
 
-</android.support.constraint.ConstraintLayout>
+        <FrameLayout
+            android:id="@+id/frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="380dp"
+                android:layout_height="450dp"
+                android:src="@drawable/toad"
+                android:visibility="visible"/>
+
+            <ImageView
+                android:id="@+id/img2"
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:src="@drawable/google"
+                android:visibility="visible"/>
+        </FrameLayout>
+
+        <Button
+            android:id="@+id/btnSart"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/app_name"
+            android:onClick="onbtn1ClickedStart"
+
+            android:visibility="visible"/>
+    </FrameLayout>
+</LinearLayout>
