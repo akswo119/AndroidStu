@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">chap02_chall_02</string>
+    <string name="byteText">%s/80 바이트</string>
+    <string name="zeroText">0</string>
+    <string name="send">전송</string>
+    <string name="close">닫기</string>
+</resources>

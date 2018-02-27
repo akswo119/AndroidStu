@@ -1,1 +1,1 @@
-include ':app'
+include ':chap02_01_linearlayout', ':chap02_02_relativelayout', ':chap02_03_tablelayout', ':chap02_04_scrollview', ':chap02_05_framelayout', ':chap02_chall_01', ':chap01_chall_01', ':chap01_chall_02', ':chap02_chall_02'

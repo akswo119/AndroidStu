@@ -3,7 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidStu.iml" filepath="$PROJECT_DIR$/AndroidStu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap01_chall_01/chap01_chall_01.iml" filepath="$PROJECT_DIR$/chap01_chall_01/chap01_chall_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap01_chall_02/chap01_chall_02.iml" filepath="$PROJECT_DIR$/chap01_chall_02/chap01_chall_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02_01_linearlayout/chap02_01_linearlayout.iml" filepath="$PROJECT_DIR$/chap02_01_linearlayout/chap02_01_linearlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02_02_relativelayout/chap02_02_relativelayout.iml" filepath="$PROJECT_DIR$/chap02_02_relativelayout/chap02_02_relativelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02_03_tablelayout/chap02_03_tablelayout.iml" filepath="$PROJECT_DIR$/chap02_03_tablelayout/chap02_03_tablelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02_04_scrollview/chap02_04_scrollview.iml" filepath="$PROJECT_DIR$/chap02_04_scrollview/chap02_04_scrollview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02_05_framelayout/chap02_05_framelayout.iml" filepath="$PROJECT_DIR$/chap02_05_framelayout/chap02_05_framelayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02_chall_01/chap02_chall_01.iml" filepath="$PROJECT_DIR$/chap02_chall_01/chap02_chall_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap02_chall_02/chap02_chall_02.iml" filepath="$PROJECT_DIR$/chap02_chall_02/chap02_chall_02.iml" />
     </modules>
   </component>
 </project>
