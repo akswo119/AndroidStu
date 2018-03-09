@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.chap03_chall_02">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="로그인하기"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainMenu"
+            android:label="메인메뉴"
+            />
+        <activity
+            android:name=".Sub1"
+            android:label="고객관리"
+            />
+        <activity
+            android:name=".Sub2"
+            android:label="매출관리"
+            />
+        <activity
+            android:name=".Sub3"
+            android:label="상품관리"
+            />
+    </application>
+
+</manifest>

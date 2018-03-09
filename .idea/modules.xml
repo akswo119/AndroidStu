@@ -12,6 +12,15 @@
       <module fileurl="file://$PROJECT_DIR$/chap02_05_framelayout/chap02_05_framelayout.iml" filepath="$PROJECT_DIR$/chap02_05_framelayout/chap02_05_framelayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap02_chall_01/chap02_chall_01.iml" filepath="$PROJECT_DIR$/chap02_chall_01/chap02_chall_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap02_chall_02/chap02_chall_02.iml" filepath="$PROJECT_DIR$/chap02_chall_02/chap02_chall_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03_01_layoutinflater/chap03_01_layoutinflater.iml" filepath="$PROJECT_DIR$/chap03_01_layoutinflater/chap03_01_layoutinflater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03_02_intent/chap03_02_intent.iml" filepath="$PROJECT_DIR$/chap03_02_intent/chap03_02_intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03_03_pdfsample/chap03_03_pdfsample.iml" filepath="$PROJECT_DIR$/chap03_03_pdfsample/chap03_03_pdfsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03_04_parcelable/chap03_04_parcelable.iml" filepath="$PROJECT_DIR$/chap03_04_parcelable/chap03_04_parcelable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03_05_lifecycle/chap03_05_lifecycle.iml" filepath="$PROJECT_DIR$/chap03_05_lifecycle/chap03_05_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03_06_service/chap03_06_service.iml" filepath="$PROJECT_DIR$/chap03_06_service/chap03_06_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03_07_smsreceiver/chap03_07_smsreceiver.iml" filepath="$PROJECT_DIR$/chap03_07_smsreceiver/chap03_07_smsreceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03_chall_01/chap03_chall_01.iml" filepath="$PROJECT_DIR$/chap03_chall_01/chap03_chall_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap03_chall_02/chap03_chall_02.iml" filepath="$PROJECT_DIR$/chap03_chall_02/chap03_chall_02.iml" />
     </modules>
   </component>
 </project>
