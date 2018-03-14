@@ -21,6 +21,20 @@
       <module fileurl="file://$PROJECT_DIR$/chap03_07_smsreceiver/chap03_07_smsreceiver.iml" filepath="$PROJECT_DIR$/chap03_07_smsreceiver/chap03_07_smsreceiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap03_chall_01/chap03_chall_01.iml" filepath="$PROJECT_DIR$/chap03_chall_01/chap03_chall_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap03_chall_02/chap03_chall_02.iml" filepath="$PROJECT_DIR$/chap03_chall_02/chap03_chall_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_01_touchevent/chap04_01_touchevent.iml" filepath="$PROJECT_DIR$/chap04_01_touchevent/chap04_01_touchevent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_02_focus/chap04_02_focus.iml" filepath="$PROJECT_DIR$/chap04_02_focus/chap04_02_focus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_03_orientatiion/chap04_03_orientatiion.iml" filepath="$PROJECT_DIR$/chap04_03_orientatiion/chap04_03_orientatiion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_04_orientation2/chap04_04_orientation2.iml" filepath="$PROJECT_DIR$/chap04_04_orientation2/chap04_04_orientation2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_05_toastsnackbar/chap04_05_toastsnackbar.iml" filepath="$PROJECT_DIR$/chap04_05_toastsnackbar/chap04_05_toastsnackbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_06_dialog/chap04_06_dialog.iml" filepath="$PROJECT_DIR$/chap04_06_dialog/chap04_06_dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_07_progress/chap04_07_progress.iml" filepath="$PROJECT_DIR$/chap04_07_progress/chap04_07_progress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_08_animation/chap04_08_animation.iml" filepath="$PROJECT_DIR$/chap04_08_animation/chap04_08_animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_09_pagesliding/chap04_09_pagesliding.iml" filepath="$PROJECT_DIR$/chap04_09_pagesliding/chap04_09_pagesliding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_10_flagment/chap04_10_flagment.iml" filepath="$PROJECT_DIR$/chap04_10_flagment/chap04_10_flagment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_11_listfragment/chap04_11_listfragment.iml" filepath="$PROJECT_DIR$/chap04_11_listfragment/chap04_11_listfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_12_optionmenu/chap04_12_optionmenu.iml" filepath="$PROJECT_DIR$/chap04_12_optionmenu/chap04_12_optionmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_13_tab/chap04_13_tab.iml" filepath="$PROJECT_DIR$/chap04_13_tab/chap04_13_tab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap04_14_webbrowser/chap04_14_webbrowser.iml" filepath="$PROJECT_DIR$/chap04_14_webbrowser/chap04_14_webbrowser.iml" />
     </modules>
   </component>
 </project>

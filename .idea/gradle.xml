@@ -26,6 +26,20 @@
             <option value="$PROJECT_DIR$/chap03_07_smsreceiver" />
             <option value="$PROJECT_DIR$/chap03_chall_01" />
             <option value="$PROJECT_DIR$/chap03_chall_02" />
+            <option value="$PROJECT_DIR$/chap04_01_touchevent" />
+            <option value="$PROJECT_DIR$/chap04_02_focus" />
+            <option value="$PROJECT_DIR$/chap04_03_orientatiion" />
+            <option value="$PROJECT_DIR$/chap04_04_orientation2" />
+            <option value="$PROJECT_DIR$/chap04_05_toastsnackbar" />
+            <option value="$PROJECT_DIR$/chap04_06_dialog" />
+            <option value="$PROJECT_DIR$/chap04_07_progress" />
+            <option value="$PROJECT_DIR$/chap04_08_animation" />
+            <option value="$PROJECT_DIR$/chap04_09_pagesliding" />
+            <option value="$PROJECT_DIR$/chap04_10_flagment" />
+            <option value="$PROJECT_DIR$/chap04_11_listfragment" />
+            <option value="$PROJECT_DIR$/chap04_12_optionmenu" />
+            <option value="$PROJECT_DIR$/chap04_13_tab" />
+            <option value="$PROJECT_DIR$/chap04_14_webbrowser" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
