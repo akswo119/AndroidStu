@@ -33,13 +33,17 @@ public class MainActivity extends AppCompatActivity {
         webView.addJavascriptInterface(new JavascriptMethod(), "sample");
 
         webView.loadUrl("file:///android_asset/www/sample.html");
+        //webView.loadUrl("file:///C:/Users/BK/AndroidStudioProjects/AndroidStu/chap04_14_webbrowser/src/main/assets/www/sample.html");
+
         final EditText urlInput = (EditText) findViewById(R.id.urlInput);
 
         loadButton = (Button) findViewById(R.id.btnLoad);
         loadButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
 
-                webView.loadUrl(urlInput.getText().toString());
+                webView.loadUrl("file:///android_asset/www/sample.html");
+                //webView.loadUrl("file:///C:/Users/BK/AndroidStudioProjects/AndroidStu/chap04_14_webbrowser/src/main/assets/www/sample.html");
+                //webView.loadUrl(urlInput.getText().toString());
             }
         });
 

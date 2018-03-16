@@ -8,38 +8,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/chap01_chall_01" />
-            <option value="$PROJECT_DIR$/chap01_chall_02" />
-            <option value="$PROJECT_DIR$/chap02_01_linearlayout" />
-            <option value="$PROJECT_DIR$/chap02_02_relativelayout" />
-            <option value="$PROJECT_DIR$/chap02_03_tablelayout" />
-            <option value="$PROJECT_DIR$/chap02_04_scrollview" />
-            <option value="$PROJECT_DIR$/chap02_05_framelayout" />
-            <option value="$PROJECT_DIR$/chap02_chall_01" />
-            <option value="$PROJECT_DIR$/chap02_chall_02" />
-            <option value="$PROJECT_DIR$/chap03_01_layoutinflater" />
-            <option value="$PROJECT_DIR$/chap03_02_intent" />
-            <option value="$PROJECT_DIR$/chap03_03_pdfsample" />
-            <option value="$PROJECT_DIR$/chap03_04_parcelable" />
-            <option value="$PROJECT_DIR$/chap03_05_lifecycle" />
-            <option value="$PROJECT_DIR$/chap03_06_service" />
-            <option value="$PROJECT_DIR$/chap03_07_smsreceiver" />
-            <option value="$PROJECT_DIR$/chap03_chall_01" />
-            <option value="$PROJECT_DIR$/chap03_chall_02" />
-            <option value="$PROJECT_DIR$/chap04_01_touchevent" />
-            <option value="$PROJECT_DIR$/chap04_02_focus" />
-            <option value="$PROJECT_DIR$/chap04_03_orientatiion" />
-            <option value="$PROJECT_DIR$/chap04_04_orientation2" />
-            <option value="$PROJECT_DIR$/chap04_05_toastsnackbar" />
-            <option value="$PROJECT_DIR$/chap04_06_dialog" />
-            <option value="$PROJECT_DIR$/chap04_07_progress" />
-            <option value="$PROJECT_DIR$/chap04_08_animation" />
             <option value="$PROJECT_DIR$/chap04_09_pagesliding" />
-            <option value="$PROJECT_DIR$/chap04_10_flagment" />
-            <option value="$PROJECT_DIR$/chap04_11_listfragment" />
-            <option value="$PROJECT_DIR$/chap04_12_optionmenu" />
-            <option value="$PROJECT_DIR$/chap04_13_tab" />
             <option value="$PROJECT_DIR$/chap04_14_webbrowser" />
+            <option value="$PROJECT_DIR$/chap04_15_inputtype" />
+            <option value="$PROJECT_DIR$/chap04_chall_01" />
+            <option value="$PROJECT_DIR$/chap04_chall_02" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
