@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidStu.iml" filepath="$PROJECT_DIR$/AndroidStu.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chap04_09_pagesliding/chap04_09_pagesliding.iml" filepath="$PROJECT_DIR$/chap04_09_pagesliding/chap04_09_pagesliding.iml" />
       <module fileurl="file://$PROJECT_DIR$/chap04_14_webbrowser/chap04_14_webbrowser.iml" filepath="$PROJECT_DIR$/chap04_14_webbrowser/chap04_14_webbrowser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chap04_15_inputtype/chap04_15_inputtype.iml" filepath="$PROJECT_DIR$/chap04_15_inputtype/chap04_15_inputtype.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chap04_chall_01/chap04_chall_01.iml" filepath="$PROJECT_DIR$/chap04_chall_01/chap04_chall_01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chap04_chall_02/chap04_chall_02.iml" filepath="$PROJECT_DIR$/chap04_chall_02/chap04_chall_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05_07_datetimepicker/chap05_07_datetimepicker.iml" filepath="$PROJECT_DIR$/chap05_07_datetimepicker/chap05_07_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05_08_carendar/chap05_08_carendar.iml" filepath="$PROJECT_DIR$/chap05_08_carendar/chap05_08_carendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05_09_multitouch/chap05_09_multitouch.iml" filepath="$PROJECT_DIR$/chap05_09_multitouch/chap05_09_multitouch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap05_chall_01/chap05_chall_01.iml" filepath="$PROJECT_DIR$/chap05_chall_01/chap05_chall_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chpa05_06_gridview/chpa05_06_gridview.iml" filepath="$PROJECT_DIR$/chpa05_06_gridview/chpa05_06_gridview.iml" />
     </modules>
   </component>
 </project>

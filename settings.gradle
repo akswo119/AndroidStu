@@ -1,2 +1,56 @@
-//include ':chap02_01_linearlayout', ':chap02_02_relativelayout', ':chap02_03_tablelayout', ':chap02_04_scrollview', ':chap02_05_framelayout', ':chap02_chall_01', ':chap01_chall_01', ':chap01_chall_02', ':chap02_chall_02', ':chap03_01_layoutinflater', ':chap03_02_intent', ':chap03_03_pdfsample', ':chap03_chall_01', ':chap03_chall_02', ':chap03_04_parcelable', ':chap03_05_lifecycle', ':chap03_06_service', ':chap03_07_smsreceiver', ':chap04_01_touchevent', ':chap04_02_focus', ':chap04_03_orientatiion', ':chap04_04_orientation2', ':chap04_05_toastsnackbar', ':chap04_06_dialog', ':chap04_07_progress', ':chap04_08_animation', ':chap04_09_pagesliding', ':chap04_10_flagment', ':chap04_11_listfragment', ':chap04_12_optionmenu', ':chap04_13_tab', ':chap04_14_webbrowser'
-include ':chap04_09_pagesliding', ':chap04_14_webbrowser', ':chap04_15_inputtype', ':chap04_chall_01', ':chap04_chall_02'
+///////////////////ing////////////////////////////////
+//include ':chap05_01_ninepatch'
+//include ':chap05_02_bitmapbutton'
+//include ':chap05_03_listview'
+//include ':chap05_04_spinner'
+//include ':chap05_05_listview2'
+include ':chpa05_06_gridview'
+include ':chap05_07_datetimepicker'
+include ':chap05_08_carendar'
+include ':chap05_09_multitouch'
+
+/////////////chap02/////////////////
+//include ':chap02_01_linearlayout'
+//include ':chap02_02_relativelayout'
+//include ':chap02_03_tablelayout'
+//include ':chap02_04_scrollview'
+//include ':chap02_05_framelayout'
+
+/////////////chap03/////////////////
+//include ':chap03_01_layoutinflater'
+//include ':chap03_02_intent'
+//include ':chap03_03_pdfsample'
+//include ':chap03_04_parcelable'
+//include ':chap03_05_lifecycle'
+//include ':chap03_06_service'
+//include ':chap03_07_smsreceiver'
+
+/////////////chap04/////////////////
+//include ':chap04_01_touchevent'
+//include ':chap04_02_focus'
+//include ':chap04_03_orientatiion'
+//include ':chap04_04_orientation2'
+//include ':chap04_05_toastsnackbar'
+//include ':chap04_06_dialog'
+//include ':chap04_07_progress'
+//include ':chap04_08_animation'
+//include ':chap04_09_pagesliding'
+//include ':chap04_10_flagment'
+//include ':chap04_11_listfragment'
+//include ':chap04_12_optionmenu'
+//include ':chap04_13_tab'
+include ':chap04_14_webbrowser'
+//include ':chap04_15_inputtype'
+
+//////////////////// 도전 ////////////////////////
+//include ':chap01_chall_01'
+//include ':chap01_chall_02'
+//include ':chap02_chall_01'
+//include ':chap02_chall_02'
+//include ':chap03_chall_01'
+//include ':chap03_chall_02'
+//include ':chap04_chall_01'
+//include ':chap04_chall_02'
+
+include ':chap05_chall_01'
+

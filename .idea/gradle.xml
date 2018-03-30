@@ -8,11 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/chap04_09_pagesliding" />
             <option value="$PROJECT_DIR$/chap04_14_webbrowser" />
-            <option value="$PROJECT_DIR$/chap04_15_inputtype" />
-            <option value="$PROJECT_DIR$/chap04_chall_01" />
-            <option value="$PROJECT_DIR$/chap04_chall_02" />
+            <option value="$PROJECT_DIR$/chap05_07_datetimepicker" />
+            <option value="$PROJECT_DIR$/chap05_08_carendar" />
+            <option value="$PROJECT_DIR$/chap05_09_multitouch" />
+            <option value="$PROJECT_DIR$/chap05_chall_01" />
+            <option value="$PROJECT_DIR$/chpa05_06_gridview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

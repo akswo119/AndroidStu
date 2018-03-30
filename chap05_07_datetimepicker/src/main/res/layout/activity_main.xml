@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/picker"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"/>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.example.chap05_07_datetimepicker.DateTimePicker
+            android:id="@+id/dateTimePicker"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </com.example.chap05_07_datetimepicker.DateTimePicker>
+    </ScrollView>
+
+</LinearLayout>

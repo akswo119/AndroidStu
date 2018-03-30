@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/imgView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/pic"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="10dp">
+            <TextView
+                android:id="@+id/txtViewName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="고객"
+                android:textStyle="bold"
+                android:textSize="30sp"/>
+            <TextView
+                android:id="@+id/txtViewBirth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1986-12-10"
+                android:textSize="20sp"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtViewTel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="010-5378-5376"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
